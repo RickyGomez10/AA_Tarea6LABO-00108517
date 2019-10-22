@@ -1,0 +1,3 @@
+C:/Users/Ricardo/CLionProjects/Tarea6-AA/cmake-build-debug/CMakeFiles/Tarea6_AA.dir
+C:/Users/Ricardo/CLionProjects/Tarea6-AA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ricardo/CLionProjects/Tarea6-AA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
